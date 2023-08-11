@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 100px;
+
+}
+
+.App img {
+  width: 100%;
+}
+
+.App > div > div{
+  display: flex;
+  justify-content: space-between; 
 }
 
 .App-logo {
